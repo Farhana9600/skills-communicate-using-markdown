@@ -1,8 +1,4 @@
-Here is your `index.md` file content, exactly as you requested:
 
----
-
-````markdown
 # hello
 ## this is practice section
 #### i am learning
@@ -51,3 +47,4 @@ int main() {
 * [x] added task list
 
 I have added 3 different header section (h1,h2,h4), image, code block, task list.
+
